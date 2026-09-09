@@ -1,0 +1,18 @@
+{
+  "citations": [
+    {
+      "title": "Minimum Phase Filters",
+      "url": "https://www.dsprelated.com/freebooks/filters/Minimum_Phase_Filters.html"
+    }
+  ],
+  "design_plan": null,
+  "generated_at": "2026-09-09T17:48:31.671085+00:00",
+  "headline": "Zero Reflection Studio",
+  "site_brief": {
+    "audience": "learners exploring minimum-phase filters",
+    "kind": "use_case",
+    "slug": "ml-zero-reflection-studio-20260908",
+    "title": "Zero Reflection Studio"
+  },
+  "summary": "Minimum-phase FIR zero reflection preserves spectral magnitude while changing allpass group delay and cumulative impulse energy"
+}
